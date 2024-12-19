@@ -1,0 +1,1 @@
+ /Users/user/StudioProjects/social_app/.dart_tool/flutter_build/113191ba9bfd9f78dd4454e94ee7121d/native_assets.yaml: 
